@@ -2,6 +2,16 @@
 
 A production-grade, offline-first iOS To-Do application built with SwiftUI, CoreData, and Supabase. Features AI task assistance, advanced analytics, real-time collaboration, and biometric security.
 
+## 📱 Screenshots
+
+| Home & Tasks | AI Assistant | Analytics |
+|:---:|:---:|:---:|
+| <img src="images/Screenshot 2026-02-09 at 5.24.18 AM.png" width="200" /> | <img src="images/Screenshot 2026-02-09 at 5.25.56 AM.png" width="200" /> | <img src="images/Screenshot 2026-02-09 at 5.26.13 AM.png" width="200" /> |
+
+| Add Task | Settings | Premium |
+|:---:|:---:|:---:|
+| <img src="images/Screenshot 2026-02-09 at 5.24.30 AM.png" width="200" /> | <img src="images/Screenshot 2026-02-10 at 4.53.36 AM.png" width="200" /> | <img src="images/Screenshot 2026-02-10 at 4.59.41 AM.png" width="200" /> |
+
 ## 🚀 Features
 
 - **Smart Task Management**: Create, edit, and organize tasks with priorities and categories.

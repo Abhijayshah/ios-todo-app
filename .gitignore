@@ -22,3 +22,7 @@ build/
 
 # Secrets
 todo-ios/Services/Secrets.swift
+
+# *.md
+# !README.md
+projectdetails.md
